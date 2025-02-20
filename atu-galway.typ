@@ -34,8 +34,8 @@
     // date: datetime.today(),
     institution: [ATU Galway],
     logo: image("logos/atu-logo-full-green.svg", width: 8cm),
-    // logo2: image("logos/atu-initial-white.svg", height: 4cm), 
-    logo2: image("logos/atu-full-white.svg", height: 4cm), 
+    logo2: image("logos/atu-initial-white.svg", height: 6cm), 
+    // logo2: image("logos/atu-full-white.svg", height: 4cm), 
     // logo2: rotated-logo,
     // logo2: image("atu-logo-full-green.svg", width: 4cm)
     // logo2: image("./logos/atu-logo.jpg", width: 5cm),
