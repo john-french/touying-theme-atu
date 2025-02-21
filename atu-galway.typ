@@ -3,6 +3,7 @@
 #import themes.metropolis: *
 #import "@preview/numbly:0.1.0": numbly
 // #import "colours.typ"
+#import "atu.typ": *
 
 #let teal = rgb("005b5e")
 #let navy = rgb("001a79")
@@ -24,7 +25,7 @@
 // #show: uobristol-theme.with(
 // #show: stargazer-theme.with(
 // #show: dewdrop-theme.with(  
-#show: metropolis-theme.with(
+#show: atu-theme.with(
 // #show: university-theme.with(
   aspect-ratio: "16-9",
   config-info(
